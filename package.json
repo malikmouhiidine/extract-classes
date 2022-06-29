@@ -1,0 +1,27 @@
+{
+  "name": "extract-classes",
+  "version": "1.0.0",
+  "description": "A simple CLI to exctract classes from an HTML, JSX, etc. file to a CSS file.",
+  "main": "index.js",
+  "bin": {
+    "extract-classes": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "command-line",
+    "extract-classes",
+    "extract",
+    "classes",
+    "css",
+    "html",
+    "jsx",
+    "tsx"
+  ],
+  "author": "Malik Mouhiidine",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.3.0"
+  }
+}
