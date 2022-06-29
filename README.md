@@ -1,5 +1,7 @@
 # extract-classes
 
+![version](https://img.shields.io/npm/v/extract-classes)
+
 **A command-line tool** to extract classes from an HTML, JSX, etc. file to a CSS file.
 
 ## Install
@@ -55,13 +57,10 @@ Then an `index.css` will be created with the following classes:
 
 ```css
 .foo {
-
 }
 .bar {
-
 }
 .baz {
-
 }
 ```
 
