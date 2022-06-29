@@ -1,7 +1,8 @@
 {
   "name": "extract-classes",
   "version": "1.0.0",
-  "description": "A simple CLI to exctract classes from an HTML, JSX, etc. file to a CSS file.",
+  "repository": "malikmouhiidine/extract-classes",
+  "description": "A simple CLI to extract classes from an HTML, JSX, etc. file to a CSS file.",
   "main": "index.js",
   "bin": {
     "extract-classes": "./index.js"
@@ -17,7 +18,10 @@
     "css",
     "html",
     "jsx",
-    "tsx"
+    "tsx",
+    "classname",
+    "extract",
+    "regex"
   ],
   "author": "Malik Mouhiidine",
   "license": "MIT",
