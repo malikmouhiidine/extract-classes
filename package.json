@@ -1,6 +1,6 @@
 {
   "name": "extract-classes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "malikmouhiidine/extract-classes",
   "description": "A simple CLI to extract classes from an HTML, JSX, etc. file to a CSS file.",
   "main": "index.js",
