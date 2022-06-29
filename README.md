@@ -1,6 +1,6 @@
 # extract-classes
 
-**A command-line tool** to exctract classes from an HTML, JSX, etc. file to a CSS file.
+**A command-line tool** to extract classes from an HTML, JSX, etc. file to a CSS file.
 
 ## Install
 
